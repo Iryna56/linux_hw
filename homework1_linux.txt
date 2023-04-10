@@ -1,0 +1,20 @@
+   0 mkdir /home/animals
+   1 ls /home/
+   2 cd /home/animals/
+   3 mkdir cats dogs fish
+   4 ls
+   5 touch dogs/pluto cats/garfield fish/nemo
+   6 tree /home/
+   7 touch /tmp/adam.txt
+   8 ls /tmp/
+   9 cd ..
+  10 mkdir /home/humans
+  11 ls /home/
+  12 cp /tmp/adam.txt /home/humans/
+  13 tree /home/
+  14 touch /tmp/evA.txt
+  15 mv /tmp/evA.txt /opt/eve.txt
+  16 tree /opt/
+  17 mv /opt/eve.txt /home/humans/
+  18 tree /home/humans/
+  19 history > homework1_linux.txt
