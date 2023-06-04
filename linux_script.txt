@@ -1,0 +1,10 @@
+#!/bin/bash
+echo  "your name is: "
+whoami
+echo "your working directory is: "
+pwd
+echo "Number of users: "
+df -h
+echo "done"
+Извините за опоздание с домашкой. 
+У меня не работала отправка ДЗ до середины мая, и сейчас только добралась сюда.
